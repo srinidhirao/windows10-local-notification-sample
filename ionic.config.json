@@ -1,0 +1,7 @@
+{
+  "name": "LocalNotificationTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
